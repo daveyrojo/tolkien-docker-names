@@ -1,0 +1,18 @@
+const titles = [
+  "I",
+  "II",
+  "the Bowman",
+  "of the Fountain",
+  "the Usurper",
+  "the Tall",
+  "the Young",
+  "the Black",
+  "the Hunter",
+  "of Gamwich",
+  "of the Hill",
+  "III",
+  "IV",
+  "V",
+  "VI",
+  "VII",
+];
